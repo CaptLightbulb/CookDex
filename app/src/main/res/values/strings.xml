@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CookDex</string>
+    <string name="title_prompt">Set a title for this recipe</string>
+    <string name="url_prompt">Set a Web Address for this recipe</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="set_image">Set Image</string>
+    <string name="view_recipe">View Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="search_recipe">Search Recipe</string>
+</resources>

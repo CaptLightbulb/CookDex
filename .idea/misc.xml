@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CookDex/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable-anydpi/ic_cutlery.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable-anydpi/ic_plus.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable/ic_blank_image.xml" value="0.1" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable/ic_cook_dex_foreground.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/activity_recipe_web.xml" value="0.4" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/list_item_recipe.xml" value="0.33816425120772947" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/recipe_list.xml" value="0.32735042735042735" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/recipe_page.xml" value="0.264" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/layout/recipe_web_page.xml" value="0.1940222897669706" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/menu/recipe_list.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/mipmap-anydpi-v26/ic_cook_dex.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/mipmap-anydpi-v26/ic_cook_dex_round.xml" value="0.1535" />
+        <entry key="..\:/Users/thegr/StudioProjects/CookDex/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1535" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
